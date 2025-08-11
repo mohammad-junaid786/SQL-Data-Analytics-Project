@@ -1,5 +1,6 @@
 # 📊 SQL Exploratory Data Analysis Project
 
+(docs/Exploratory_Data_Analysis.png)
 This project applies **Exploratory Data Analysis (EDA)** concepts using SQL, covering:
 - Database Exploration
 - Dimensions Exploration
