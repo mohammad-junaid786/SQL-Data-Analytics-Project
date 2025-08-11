@@ -12,7 +12,7 @@ The project is structured so that **each analysis type has its own SQL script**,
 
 ## 🗂 Project Map
 
-![Data Analytics Roadmap](docs/Project Roadmap.png)
+![Data Analytics Roadmap](docs/Project_Roadmap.png)
 
 The diagram above shows all the analytical modules covered in this project.
 
