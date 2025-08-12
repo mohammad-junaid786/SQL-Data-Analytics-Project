@@ -1,6 +1,6 @@
 # SQL Data Analytics Project
 
-## 📌 Overview
+## Overview
 This project showcases a complete **Data Analytics workflow** implemented purely in SQL.  
 It follows two main phases:
 1. **Exploratory Data Analysis (EDA)** – understanding the data and extracting key insights.
@@ -10,7 +10,7 @@ The project is structured so that **each analysis type has its own SQL script**,
 
 ---
 
-## 🗂 Project Map
+## Project Map
 
 ![Data Analytics Roadmap](docs/Project_Roadmap.png)
 
@@ -18,7 +18,7 @@ The diagram above shows all the analytical modules covered in this project.
 
 ---
 
-## 1️⃣ Exploratory Data Analysis (EDA)
+## 1. Exploratory Data Analysis (EDA)
 These scripts focus on understanding the structure, coverage, and basic trends in the dataset.
 
 | #  | Module | Description | Script |
@@ -32,7 +32,7 @@ These scripts focus on understanding the structure, coverage, and basic trends i
 
 ---
 
-## 2️⃣ Advanced Analytics
+## 2. Advanced Analytics
 These scripts build on the EDA phase to uncover deeper patterns and performance metrics.
 
 | #  | Module | Description | Script |
